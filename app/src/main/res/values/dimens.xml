@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding1">80dp</dimen>
+    <dimen name="padding2">10dp</dimen>
+    <dimen name="padding3">20dp</dimen>
+
+    <!-- text dimen -->
+    <dimen name="author">8sp</dimen>
+    <dimen name="sign">10sp</dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="date">10sp</dimen>
+
+</resources>
